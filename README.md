@@ -1,4 +1,4 @@
-# 🍔 Tasty Burger Website
+# 🍔 Tasty Burger - React Franchise Website
 
 Welcome to the official React-based website for **Tasty Burger**, a delicious burger franchise known for its mouthwatering flavors and great service! This project showcases the modern, responsive design and layout built using **React.js**.
 

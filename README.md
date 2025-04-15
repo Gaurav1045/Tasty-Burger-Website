@@ -71,16 +71,6 @@ npm install
 npm start
 ```
 
----
-
-## 🧑‍💻 Author
-
-**Gaurav Dhakate**  
-📧 [Email](mailto:gaurav.dhakate@example.com)  
-🔗 [GitHub](https://github.com/Gaurav1045)
-
----
-
 ## 🙌 Acknowledgments
 
 Thanks to all the burger lovers who inspired this tasty React project! 🍔🔥  

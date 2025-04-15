@@ -5,12 +5,6 @@ Welcome to the official static website for **Tasty Burger**, a delicious burger 
 
 ---
 
-## 🚀 Live Demo
-
-🌐 [Visit Website](https://gaurav1045.github.io/tasty-burger-website/)
-
----
-
 ## 📌 Features
 
 - 🧾 Simple and responsive landing page

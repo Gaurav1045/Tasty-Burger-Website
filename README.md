@@ -1,17 +1,17 @@
-
 # 🍔 Tasty Burger Website
 
-Welcome to the official static website for **Tasty Burger**, a delicious burger franchise known for its mouthwatering flavors and great service! This project showcases the design and layout for the franchise’s online presence.
+Welcome to the official React-based website for **Tasty Burger**, a delicious burger franchise known for its mouthwatering flavors and great service! This project showcases the modern, responsive design and layout built using **React.js**.
 
 ---
 
 ## 📌 Features
 
-- 🧾 Simple and responsive landing page
-- 🍟 Menu section with popular items
-- 📷 Attractive images and layout
-- 📱 Mobile-friendly design
-- 📍 Contact & Location info
+- 🧾 React-based responsive landing page
+- 🍟 Menu section with featured items
+- 📷 Image-rich design using reusable components
+- 📱 Fully mobile-friendly layout
+- 📍 Contact & Location sections
+- 🧩 Component-based architecture
 
 ---
 
@@ -20,8 +20,9 @@ Welcome to the official static website for **Tasty Burger**, a delicious burger 
 ```
 food-app/
 ├── public/
+│   └── index.html
 ├── src/
-│   ├── assets/
+│   ├── assets/              # Images, icons, etc.
 │   ├── components/
 │   │   └── layouts/
 │   │       ├── Footer.js
@@ -34,7 +35,7 @@ food-app/
 │   │   ├── Home/
 │   │   ├── Menu/
 │   │   └── Shop/
-│   ├── styles/
+│   ├── styles/              # CSS / SCSS files
 │   ├── App.js
 │   ├── App.test.js
 │   ├── index.css
@@ -51,9 +52,24 @@ food-app/
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure
-- **CSS3** – Styling and layout
-- *(Optional: JavaScript if used)*
+- ⚛️ **React.js** – Frontend library
+- 🎨 **CSS3** – Styling and layout
+- 🗂️ **React Router DOM** – Routing between pages
+- 📦 **npm** – Package manager
+- 🔧 *(Optional: Add more tools if used, like Axios, Bootstrap, etc.)*
+
+---
+
+## 💻 Installation & Setup
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Gaurav1045/tasty-burger-website.git
+cd tasty-burger-website
+npm install
+npm start
+```
 
 ---
 
@@ -67,5 +83,7 @@ food-app/
 
 ## 🙌 Acknowledgments
 
-Thanks to all the burger lovers who inspired this delicious project! 🍔❤️
-```
+Thanks to all the burger lovers who inspired this tasty React project! 🍔🔥  
+Design inspired by modern food & beverage websites.
+
+---
